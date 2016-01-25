@@ -8,7 +8,7 @@ exit
 fi
 
 #Set some variables
-LIST=($(cat ./$1 | tr -d '\r'))
+LIST=($(cat ./$1 | tr , '\n' | tr -d '\r'))
 COUNT=0
 
 # Function for removing dots and converting to hex
