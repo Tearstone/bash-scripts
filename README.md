@@ -8,4 +8,5 @@ wpbatch.sh - Must have wpscan installed. This is a simple script to import a lis
 Contact me on:
 
    Twitter: Tearstone
+
    Blog: rsanderlin.com
